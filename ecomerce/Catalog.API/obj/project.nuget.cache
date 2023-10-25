@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "41+qFpoeMB7+dBGTOTcFtAx/8qxYAI6/m/S/CQbjvREXB0wQ8MXUAYhNG15Gh9eSbSs56MS+JgWJvGO09AZkwQ==",
+  "dgSpecHash": "tvZj2oCjOggNVP7o8LB2ytaa2Yc8Gm7+sLg2UYpFfx+Pfs0LiFDeT4saDHlEHeI4H3ixBMseDgRex3tO91cmNQ==",
   "success": true,
   "projectFilePath": "D:\\pp\\ecommerce\\ecomerce\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mongodb.bson\\2.21.0\\mongodb.bson.2.21.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mongodb.driver\\2.10.0\\mongodb.driver.2.10.0.nupkg.sha512",

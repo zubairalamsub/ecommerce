@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option csharp_namespace = "Catalog.API.Protos";
+
+package catalog;
+
+
+
+service CatalogService {
+
+	rpc GetItemById (GetItemByIdRequest) returns (CatalogItem) {}
+	
+}
+message CatalogItem {
+	string Id = 1;
+	string Name = 2;
+	string Description = 3;
+	double Price = 4;
+	string PictureFileName = 5;
+	string PictureUri = 6;
+	string CatalogTypeId = 7;
+	string CatalogBrandId = 8;
+}
+
+message GetItemByIdRequest {
+	string Id = 1;
+}
+
+
+
+
+

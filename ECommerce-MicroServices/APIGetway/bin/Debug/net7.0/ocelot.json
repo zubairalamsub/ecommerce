@@ -1,0 +1,26 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/service1/{everything}",
+      "UpstreamPathTemplate": "/service1/{everything}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "service1",
+          "Port": 5000
+        }
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/service2/{everything}",
+      "UpstreamPathTemplate": "/service2/{everything}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "service2",
+          "Port": 5001
+        }
+      ]
+    }
+  ]
+}
